@@ -1,3 +1,4 @@
+// creation design pattern Конструктор дизайн паттерн
 const car = {
 	weels: 4,
 

@@ -1,4 +1,4 @@
-// Конструктор дизайн паттерн
+// creation design pattern Конструктор дизайн паттерн
 class SimpleMembership {
 	constructor(name) {
 		this.name = name

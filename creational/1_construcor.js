@@ -1,3 +1,4 @@
+// creation design pattern Конструктор дизайн паттерн
 // Старый вариант создания конструктора
 // https://www.youtube.com/watch?v=YJVj4XNASDk
 // function Server(name, ip) {
